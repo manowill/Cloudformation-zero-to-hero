@@ -1,0 +1,14 @@
+ordem de criação de recursos cluster-codepipeline.yml
+
+
+1- CloudFormationExecutionRole:
+
+2-  CodeBuildServiceRole:
+
+3- CodePipelineServiceRole:
+
+4- ArtifactBucket:
+
+5- Pipeline:
+
+6- Outputs:
